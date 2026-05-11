@@ -24,8 +24,8 @@ Python (Udemy)
 SQL+ Power BI (Udemy)
 Excel+AI (Udemy)
 Prompt Engineering (Udemy)
-IIT Delhi EDC 
-Be10X workshop AI Tools 
+IIT Delhi EDC Workshop,
+Be10X AI Tools Workshop 
 
 📁 Projects
 
