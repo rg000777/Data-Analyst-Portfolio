@@ -17,7 +17,7 @@ Microsoft Excel (Advanced)
 AI & Automation
 Prompt Engineering, Claude AI, Gemini, Perplexity, Notebook LM, Julias AI.
 
-Certifications
+🎗️Certifications
 
 Google Digital Marketing & E-Commerce (Coursera), IIM Bangalore Soft Skills (90.6%)
 Python (Udemy)
